@@ -1,1 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+outputs/
+figures/
+*.log
+
+# Model artifacts
+*.pkl
+artifacts/
+
+# Data
+*.csv
+*.xlsx
 
